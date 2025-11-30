@@ -35,7 +35,7 @@ User: msfadmin / password: msfadmin
 
 ## 🕸️ 3. Ataque de Força Bruta Web – DVWA
 
-**Arquivo:** `dvwa_medusa_success.png`
+**Arquivos:** `dvwa_medusa_success.png` `dvwa_medusa_success_2.png`
 
 Comando:
 
