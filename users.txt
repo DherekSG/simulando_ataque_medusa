@@ -1,1 +1,9 @@
 
+msfadmin
+user
+service
+nobody
+postgres
+root
+admin
+guest
