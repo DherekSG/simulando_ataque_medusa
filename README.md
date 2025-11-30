@@ -8,17 +8,17 @@ Este repositório documenta todo o processo de configuração, execução dos te
 
 ## 📌 Sumário
 
-- [🧩 Objetivo do Projeto]
-- [🧱 Arquitetura do Laboratório]
-- [⚙️ Configuração das VMs]
-- [🌐 Configuração de Rede (Host-Only)]
-- [🔍 Reconhecimento com Nmap]
-- [🛠️ Ataque 1 — Força Bruta FTP]
-- [🕸️ Ataque 2 — Força Bruta em Formulário Web DVWA]
-- [📁 Ataque 3 — Password Spraying SMB].
-- [🛡️ Medidas de Mitigação].
-- [📂 Estrutura do Repositório]
-- [📸 Evidências]
+- 🧩 Objetivo do Projeto
+- 🧱 Arquitetura do Laboratório
+- ⚙️ Configuração das VMs
+- 🌐 Configuração de Rede (Host-Only)
+- 🔍 Reconhecimento com Nmap
+- 🛠️ Ataque 1 — Força Bruta FTP
+- 🕸️ Ataque 2 — Força Bruta em Formulário Web DVWA]
+- 📁 Ataque 3 — Password Spraying SMB
+- 🛡️ Medidas de Mitigação
+- 📂 Estrutura do Repositório
+- 📸 Evidências
 
 ---
 
