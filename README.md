@@ -47,9 +47,9 @@ flowchart LR
 
 | VM | Função | IP (exemplo) |
 |----|--------|---------------|
-| **Kali Linux** | Atacante | 192.168.56.102 |
-| **Metasploitable 2** | Alvo vulnerável | 192.168.56.101 |
-| **DVWA** | Web app vulnerável | 192.168.56.101/dvwa |
+| **Kali Linux** | Atacante | 192.168.56.103 |
+| **Metasploitable 2** | Alvo vulnerável | 192.168.56.102 |
+| **DVWA** | Web app vulnerável | 192.168.56.x/dvwa |
 
 ---
 
